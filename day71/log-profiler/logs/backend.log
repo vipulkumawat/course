@@ -14,59 +14,23 @@
   @app.on_event("shutdown")
 INFO:     Will watch for changes in these directories: ['/Users/sumedhshende/sysd/course/day71/log-profiler/src']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [71476] using WatchFiles
-INFO:     Started server process [71485]
+INFO:     Started reloader process [17603] using WatchFiles
+INFO:     Started server process [17612]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     127.0.0.1:60654 - "GET / HTTP/1.1" 200 OK
-INFO:     ('127.0.0.1', 60658) - "WebSocket /ws" [accepted]
+INFO:     127.0.0.1:65412 - "GET / HTTP/1.1" 200 OK
+INFO:     ('127.0.0.1', 65416) - "WebSocket /ws" [accepted]
 INFO:     connection open
-INFO:     127.0.0.1:60654 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60654 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60654 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60660 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60660 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60660 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60660 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60660 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60667 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60667 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60667 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60667 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60667 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60672 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60672 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60672 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60672 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60676 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60676 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60676 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60676 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60676 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60679 - "GET /ws HTTP/1.1" 404 Not Found
-INFO:     127.0.0.1:60679 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60679 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60679 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60679 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60679 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60679 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60679 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60679 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60687 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60687 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60687 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60687 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60687 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60690 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60690 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60690 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60690 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60690 - "GET /metrics HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60693 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65412 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:65419 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65419 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65419 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65419 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65419 - "GET /metrics HTTP/1.1" 200 OK
 INFO:     Shutting down
 INFO:     connection closed
 INFO:     Waiting for background tasks to complete. (CTRL+C to force quit)
 INFO:     Waiting for application shutdown.
 INFO:     Application shutdown complete.
-INFO:     Finished server process [71485]
-INFO:     Stopping reloader process [71476]
+INFO:     Finished server process [17612]
+INFO:     Stopping reloader process [17603]
